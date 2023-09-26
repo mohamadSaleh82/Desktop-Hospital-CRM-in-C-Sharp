@@ -1,4 +1,4 @@
-# Desktop Hospital CRM in C#
+# Persian Desktop Hospital CRM in C#
 🏥 Introducing a Desktop Hospital CRM in Persian Language!
 
 We are proud to present our Hospital CRM software, developed in Persian language using C# and Entity Framework with code-first migrations. This application features four distinct roles (Admin, Operator, Doctor, Nurse) each with unique permissions and functionalities.
