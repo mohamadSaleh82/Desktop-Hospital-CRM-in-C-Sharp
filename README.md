@@ -11,9 +11,9 @@ Elevate your healthcare management with this comprehensive Persian-language solu
 
 # Here some examples:
 
-![alt text](https://raw.githubusercontent.com/leartgjoni/c-sharp-hospital-crm/master/Demo/charts.png)
-![alt text](https://raw.githubusercontent.com/leartgjoni/c-sharp-hospital-crm/master/Demo/reservations.png)
-![alt text](https://raw.githubusercontent.com/leartgjoni/c-sharp-hospital-crm/master/Demo/timetables.png)
+![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/1.jpg)
+![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/2.jpg)
+![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/3.jpg)
 
 # How to run the app
 
