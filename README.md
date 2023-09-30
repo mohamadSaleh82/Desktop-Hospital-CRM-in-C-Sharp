@@ -6,13 +6,13 @@ Welcome to the Persian Desktop Hospital CRM project! This comprehensive Hospital
 
 ## Key Features 🚀
 
-- **👥Multi-role Access**: This CRM provides a role-based access control system with four distinct roles: Admin, Operator, Doctor, and Nurse. Each role has specific permissions and functionalities tailored to their responsibilities.
+- **👥 Multi-role Access**: This CRM provides a role-based access control system with four distinct roles: Admin, Operator, Doctor, and Nurse. Each role has specific permissions and functionalities tailored to their responsibilities.
 
-- **👥User-Friendly Interface**: The frontend is built using the MetroFramework framework, ensuring an intuitive and visually appealing user experience.
+- **👥 User-Friendly Interface**: The frontend is built using the MetroFramework framework, ensuring an intuitive and visually appealing user experience.
 
-- **📊Comprehensive Dashboard**: Stay informed with a comprehensive dashboard that offers insightful visualizations and data analytics tools. Monitor vital hospital metrics with ease.
+- **📊 Comprehensive Dashboard**: Stay informed with a comprehensive dashboard that offers insightful visualizations and data analytics tools. Monitor vital hospital metrics with ease.
 
-- **🖥️Database Flexibility**: Easily configure the database by creating an empty database named "EPatientDb" or customize the database connection in the `App.config` file.
+- **🖥️ Database Flexibility**: Easily configure the database by creating an empty database named "EPatientDb" or customize the database connection in the `App.config` file.
 
 ## Screenshots 📸
 
