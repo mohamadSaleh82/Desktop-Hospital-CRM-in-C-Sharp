@@ -1,28 +1,33 @@
 # Persian Desktop Hospital CRM in C#
+
 🏥 Introducing a Desktop Hospital CRM in Persian Language!
 
-We are proud to present our Hospital CRM software, developed in Persian language using C# and Entity Framework with code-first migrations. This application features four distinct roles (Admin, Operator, Doctor, Nurse) each with unique permissions and functionalities.
+We are thrilled to introduce our Hospital CRM software, meticulously crafted in the Persian language. Built using C# and Entity Framework with code-first migrations, this application boasts an array of functionalities tailored to healthcare professionals.
 
-The user-friendly frontend is expertly crafted using the MetroFramework framework.
+## Key Features:
 
-Elevate your healthcare management with this comprehensive Persian-language solution!
+- 👥 **Multi-role Access**: The application offers four distinct roles (Admin, Operator, Doctor, Nurse), each with specific permissions and functionalities.
 
-👨‍⚕️👩‍⚕️ Emojis can be used to enhance the visual appeal of your application! 🩺💉📊
+- 🖥️ **Intuitive User Interface**: The user-friendly frontend is expertly designed using the MetroFramework framework for seamless navigation.
 
-# Here some examples:
+- 📊 **Comprehensive Dashboard**: Gain insights and track critical data with a comprehensive dashboard featuring a range of visualizations.
 
-![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/1.jpg)
-![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/2.jpg)
-![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/3.jpg)
-![alt text](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/4.jpg)
+## Screenshots:
 
-# How to run the app
+![Screenshot 1](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/1.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/2.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/3.jpg)
+![Screenshot 4](https://raw.githubusercontent.com/mohamadsaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms/master/Demo/4.jpg)
 
-	1. Pull
-	2. Open with Visual Studio
-	3. "Update-Package" command from Package Manager Console
-	4. Create empty database named "EPatientDb" (or edit EPatientDatabaseConnectionString in App.config)
-	5. "Update-Database" command from Package Manager Console
-	6. Run Application
+# How to Run the App:
 
-# Don't forget to star this repo 🌟
+1. Clone the repository.
+2. Open the project in Visual Studio.
+3. Execute the `Update-Package` command from the Package Manager Console.
+4. Create an empty database named "EPatientDb" (or edit the `EPatientDatabaseConnectionString` in `App.config`).
+5. Execute the `Update-Database` command from the Package Manager Console.
+6. Run the Application.
+
+Don't forget to star this repository to show your support! 🌟
+
+Make it even better by contributing to the project! We welcome your ideas and feedback.
